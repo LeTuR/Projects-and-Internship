@@ -1,0 +1,6 @@
+#ifndef LIBRARYMANAGER_H
+#define LIBRARYMANAGER_H
+
+
+
+#endif // LIBRARYMANAGER_H
